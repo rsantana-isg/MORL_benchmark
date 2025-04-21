@@ -10,10 +10,11 @@ After running the code it is possible to evaluate different metrics of MOEA beha
 
 ### Summary
 
-```code``` folder contains the code used to run MOEAs and for postprocessing the results
-```metrics``` folders contains the values of the metrics computed at each generation for each experiments
-```figures``` folder contains the figures of the metrics computed for all MOEAs and MORL instances 
+* ```code``` folder contains the code used to run MOEAs and for postprocessing the results
+* ```metrics``` folders contains the values of the metrics computed at each generation for each experiments
+* ```figures``` folder contains the figures of the metrics computed for all MOEAs and MORL instances 
 
+### Running the code
 
 * To run any of the algorithms with the MORL instances, check input variables in file ```code/moeas/optimize_mujoco_rl_moea.py```
 * One example of how to run the code is included with comments at the end of file ```code/moeas/optimize_mujoco_rl_moea.py```
