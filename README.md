@@ -19,12 +19,19 @@ One example of how to run the code is included with comments at the end of file 
 Citation 
 
 InProceedings{Hernandez_and_Santana:2025,
+
   title={Benchmarking {MOEAs} for solving continuous multi-objective {RL} problems },
+  
   author={Hernandez, Carlos and Santana, Roberto},
+  
   booktitle={Proceedings of the Genetic and Evolutionary Computation Conference (GECCO-2025)},
+  
   pages={},
+  
   year={2022},
+  
   note={Accepted for publication}
+  
 }
 
 
